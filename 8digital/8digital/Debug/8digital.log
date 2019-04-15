@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\zhang\Desktop\8digital\8digital\main.cpp(138): warning C4101: “temp”: 未引用的局部变量
+C:\Users\zhang\Desktop\8digital\8digital\main.cpp(107): warning C4715: “show”: 不是所有的控件路径都返回值
+  8digital.vcxproj -> C:\Users\zhang\Desktop\8digital\Debug\8digital.exe
